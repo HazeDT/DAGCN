@@ -1,2 +1,2 @@
 # DAGCN
-The code is the implementation of DAGCN.
+This code is about the implementation of DAGCN.
