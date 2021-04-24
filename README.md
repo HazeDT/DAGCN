@@ -1,7 +1,7 @@
 # Domain Adversarial Graph Convolutional network (DAGCN)
 This code is about the implementation of [Domain Adversarial Graph Convolutional Network for Fault Diagnosis Under Variable Working Conditions](https://ieeexplore.ieee.org/document/9410617).
 
-![Figure3.tif]
+![DAGCN](https://github.com/HazeDT/DAGCN/blob/main/Figure3.tif)
 
 # Note
 The DAGCN consists of a CNN and a [MRF_GCN](https://ieeexplore.ieee.org/document/9280401), and the framework of this code is based on [Unsupervised Deep Transfer Learning for Intelligent Fault Diagnosis: An Open Source and Comparative Study](https://arxiv.org/abs/1912.12528v1).
