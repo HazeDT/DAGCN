@@ -1,5 +1,5 @@
 # Domain Adversarial Graph Convolutional network (DAGCN)
-This code is about the implementation of Domain Adversarial Graph Convolutional Network for Fault Diagnosis Under Variable Working Conditions.
+This code is about the implementation of [Domain Adversarial Graph Convolutional Network for Fault Diagnosis Under Variable Working Conditions](https://ieeexplore.ieee.org/document/9410617).
 
 
 # Note
@@ -22,8 +22,16 @@ MRF_GCN:
   pages={1-1},
   doi={10.1109/TIE.2020.3040669}}
 
-DAGCN
-coming soon
+DAGCN:
+@ARTICLE{9410617,
+  author={Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Domain Adversarial Graph Convolutional Network for Fault Diagnosis Under Variable Working Conditions}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIM.2021.3075016}}
 
 
 
