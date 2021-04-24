@@ -24,7 +24,7 @@ MRF_GCN:
 
 DAGCN:
 @ARTICLE{9410617,
-  author={Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  author={T. {Li} and Z. {Zhao} and C. {Sun} and R. {Yan} and X. {Chen}},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={Domain Adversarial Graph Convolutional Network for Fault Diagnosis Under Variable Working Conditions}, 
   year={2021},
