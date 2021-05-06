@@ -29,9 +29,9 @@ DAGCN:
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={Domain Adversarial Graph Convolutional Network for Fault Diagnosis Under Variable Working Conditions}, 
   year={2021},
-  volume={},
+  volume={70},
   number={},
-  pages={1-1},
+  pages={1-10},
   doi={10.1109/TIM.2021.3075016}}
 
 
